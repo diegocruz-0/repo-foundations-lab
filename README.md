@@ -11,4 +11,6 @@
 2. Configure the environment variables
 3. Run the tests: `npm test`
 4. Start the server: `npm start`
+5. Health check: /health"
 
+## Testing to push into the main
