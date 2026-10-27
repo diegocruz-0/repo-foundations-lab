@@ -1,4 +1,6 @@
 # Emergency Settings
 emergency_mode: true
 max_retries: 5
+timeout: 30port: 3000
+host: localhost
 timeout: 30
