@@ -12,8 +12,5 @@
 3. Run the tests: `npm test`
 4. Start the server: `npm start`
 
-## Sistema de Monitoramento v2.0
-- Dashboard de métricas em tempo real
-- Alertas automatizados por email  
-- Logs centralizados
-- Health checks automáticos
+## Testing to push into the main
+
